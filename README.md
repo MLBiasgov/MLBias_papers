@@ -1,4 +1,4 @@
-# Algorithmic Bias in AI
+# Algorithmic Bias in AI: Advanced Background
 
 
 Alekh Agarwal, Alina Beygelzimer, Miroslav Dud´ık, John
@@ -89,3 +89,72 @@ boosting: a case study. In Workshop on Fairness, Accountability, and Transparenc
 Michael P Friedlander and Maya R Gupta. On minimizing
 distortion and relative entropy. IEEE Transactions on
 Information Theory, 52(1):238–245, 2006.
+
+
+# Data Bias in Statisics and Policy
+
+Andreas, J.: Measuring compositionality in representation learning. In: ICLR
+(2019)
+
+Beery, S., Van Horn, G., Perona, P.: Recognition in terra incognita. In: ECCV
+(2018)
+
+Borghi, G., Pini, S., Grazioli, F., Vezzani, R., Cucchiara, R.: Face verification from
+depth using privileged information. In: BMVC (2018)
+
+Bucilu˘a, C., Caruana, R., Niculescu-Mizil, A.: Model compression. In: ACM
+SIGKDD (2006)
+
+Cai, S., Zuo, W., Zhang, L.: Higher-order integration of hierarchical convolutional
+activations for fine-grained visual categorization. In: ICCV (2017)
+
+Chen, Y., Jin, X., Feng, J., Yan, S.: Training group orthogonal neural networks
+with privileged information. In: IJCAI. pp. 1532–1538. AAAI Press (2017)
+
+Cui, Y., Zhou, F., Wang, J., Liu, X., Lin, Y., Belongie, S.: Kernel pooling for
+convolutional neural networks. In: CVPR (2017)
+
+Ding, Y., Zhou, Y., Zhu, Y., Ye, Q., Jiao, J.: Selective sparse sampling for finegrained image recognition. In: ICCV. pp. 6599–6608 (2019)
+
+Du, Y., Czarnecki, W.M., Jayakumar, S.M., Pascanu, R., Lakshminarayanan,
+B.: Adapting auxiliary losses using gradient similarity. arXiv preprint
+arXiv:1812.02224 (2018)
+
+Gao, Y., Beijbom, O., Zhang, N., Darrell, T.: Compact bilinear pooling. In: CVPR
+(2016)
+
+He, K., Zhang, X., Ren, S., Sun, J.: Deep residual learning for image recognition.
+In: CVPR (2016)
+
+Hinton, G., Vinyals, O., Dean, J.: Distilling the knowledge in a neural network.
+arXiv preprint arXiv:1503.02531 (2015)
+
+Hoffman, J., Gupta, S., Darrell, T.: Learning with side information through modality hallucination. In: CVPR (2016)
+
+Hu, T., Qi, H.: See better before looking closer: Weakly supervised data augmentation network for fine-grained visual classification. arXiv preprint arXiv:1901.09891 (2019)
+
+Jang, Y., Lee, H., Hwang, S.J., Shin, J.: Learning what and where to transfer.
+arXiv preprint arXiv:1905.05901 (2019)
+
+Kendall, A., Gal, Y., Cipolla, R.: Multi-task learning using uncertainty to weigh
+losses for scene geometry and semantics. In: CVPR (2018)
+
+Kim, J.H., On, K.W., Lim, W., Kim, J., Ha, J.W., Zhang, B.T.: Hadamard product
+for low-rank bilinear pooling. arXiv preprint arXiv:1610.04325 (2016)
+
+Lake, B.M., Salakhutdinov, R., Tenenbaum, J.B.: Human-level concept learning
+through probabilistic program induction. Science 350(6266), 1332–1338 (2015)
+
+Lambert, J., Sener, O., Savarese, S.: Deep learning under privileged information
+using heteroscedastic dropout. In: CVPR (2018)
+
+Lee, K.H., Ros, G., Li, J., Gaidon, A.: SPIGAN: Privileged adversarial learning
+from simulation. In: ICLR (2019)
+
+Li, K., Wu, Z., Peng, K., Ernst, J., Fu, Y.: Tell me where to look: Guided attention
+inference network. In: CVPR (2018)
+
+Li, P., Xie, J., Wang, Q., Gao, Z.: Towards faster training of global covariance
+pooling networks by iterative matrix square root normalization. In: CVPR (2018)
+
+Li, P., Xie, J., Wang, Q., Zuo, W.: Is second-order information helpful for largescale visual recognition? In: ICCV (2017)
