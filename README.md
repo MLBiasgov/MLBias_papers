@@ -1,4 +1,4 @@
-#Below you will find an annotated bibliography of important papers and background reading to help you get started in bias mitigation. Please send suggestions or questions to xd@census.gov.
+# Below you will find an annotated bibliography of important papers and background reading to help you get started in bias mitigation. Please send suggestions or questions to xd@census.gov.
 
 # Algorithmic Bias in AI: Advanced Background
 
