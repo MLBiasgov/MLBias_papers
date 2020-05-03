@@ -1,4 +1,4 @@
-# MLBias_papers
+# Algorithmic Bias in AI
 
 
 Alekh Agarwal, Alina Beygelzimer, Miroslav Dud´ık, John
