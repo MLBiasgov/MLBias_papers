@@ -6,16 +6,22 @@ Langford, and Hanna Wallach. A reductions approach
 to fair classification. arXiv preprint arXiv:1803.02453,
 2018.
 
+**classic introduction to classification problems**
+
 Julia Angwin, Jeff Larson, Surya Mattu, and
 Lauren Kirchner. Machine bias. https:
 //www.propublica.org/article/
 machine-bias-risk-assessments-in-/
 criminal-sentencing, May 2016. 
 
+**less-technical introduction to implications in predictive policing**
+
 Sivaraman Balakrishnan, Srivatsan Narayanan, Alessandro
 Rinaldo, Aarti Singh, and Larry Wasserman. Cluster
 trees on manifolds. In Advances in Neural Information
 Processing Systems, pages 2679–2687, 2013.
+
+**Secondary techniques in survey-based categorical data classification**
 
 Solon Barocas and Andrew D Selbst. Big data’s disparate
 impact. Cal. L. Rev., 104:671, 2016.
